@@ -3,10 +3,10 @@
 ### Day 0: January 17, 2021 
 
 **Today's Progress**: 
-> worked out python fundamentals.
-> started learning django; observed and coded the documentation tutorial of creating polls app.
-> watched some videos on Django, read blogs and looked for some resources.
-u
+* worked out python fundamentals.
+* started learning django; observed and coded the documentation tutorial of creating polls app.
+* watched some videos on Django, read blogs and looked for some resources.
+
 **Thoughts:** Honestly, I didn't imagine that django would be that alienated to me. The way I heard that Django is far more easier for beginners as compared to flask, I found it hard to understand. But I prepared my mind thinking that it's just because of my first time I am studying about some popular framework. I thought to be consistent to work out my way too slowly.
 
 **Resources used:**
