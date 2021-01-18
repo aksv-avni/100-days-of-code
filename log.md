@@ -11,6 +11,9 @@
 Honestly, I didn't imagine that django would be that alienated to me. The way I heard that Django is far more easier for beginners as compared to flask, I found it hard to understand. But I prepared my mind thinking that it's just because of my first time I am studying about some popular framework. I thought to be consistent to work out my way too slowly.
 
 **Resources used**:
+* [official Django Tutorial ](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
+* [Sentdex Tutorial](https://pythonprogramming.net/django-web-development-python-tutorial/)
+* Python Crash Course by Eric Matthes
 
 **Link to work:** [Calculator App](http://www.example.com)
 
