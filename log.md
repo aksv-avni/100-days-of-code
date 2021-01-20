@@ -15,7 +15,7 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 * [Sentdex Tutorial](https://pythonprogramming.net/django-web-development-python-tutorial/)
 * Python Crash Course by Eric Matthes
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** 
 
 ### Day 1: January 19, 2021 
 
