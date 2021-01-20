@@ -17,7 +17,7 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 
 **Link to work:** 
 
-### Day 1: January 19, 2021 
+### Day 2: January 19, 2021 
 
 **Today's Progress**: 
 * studied theoretical concepts of django (models)
@@ -29,4 +29,8 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 **Resources used**: 
 * Django docs
 
+### Day 3: January 20, 2021
+
+**Today's Progress**:
+* read the emacs tutorial online and offline.
 
