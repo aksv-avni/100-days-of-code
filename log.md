@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 17, 2021 
+### Day 0: January 18, 2021 
 
 **Today's Progress**: 
 * worked out python fundamentals.
@@ -17,15 +17,17 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 19, 2021 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+* studied theoretical concepts of django (models)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I think I am gonna make my way soon.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
+**Resources used**: 
+* Django docs
 
 ### Day 1: June 27, Monday
 
