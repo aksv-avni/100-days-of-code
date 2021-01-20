@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 18, 2021 
+### Day 1: January 18, 2021 
 
 **Today's Progress**: 
 * worked out python fundamentals.
