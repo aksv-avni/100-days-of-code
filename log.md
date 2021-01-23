@@ -34,3 +34,12 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 **Today's Progress**:
 * read the emacs tutorial online and offline.
 
+### Day 4 and 5: January 21, 2021
+* Looked for resources, had some confusions. :|
+
+
+### Day 6, January 23, 2021
+
+**Today's Progress**:
+* worked on [official Django Polls app tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/).
+
