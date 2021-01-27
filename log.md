@@ -44,7 +44,7 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 ### Day 9, January 26, 2021
 
 **Today's Progress**:
-* worked on [official Django Polls app tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) upto [Tutorial 3](https://docs.djangoproject.com/en/3.1/intro/tutorial03/).
+* worked on [official Django Polls app tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) upto [Part 3](https://docs.djangoproject.com/en/3.1/intro/tutorial03/).
 
 ### Day 10, January 27, 2021
 **Today's Progress**:
