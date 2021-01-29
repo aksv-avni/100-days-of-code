@@ -49,3 +49,8 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 ### Day 10, January 27, 2021
 **Today's Progress**:
 * read about [Templates in Django](https://docs.djangoproject.com/en/3.0/topics/templates/#django.template.loader.engines).
+
+### Day 11, January 28, 2021
+**Today's Progress**:
+* read about [Templates in Django](https://docs.djangoproject.com/en/3.0/topics/templates/#django.template.loader.engines) and [Django Template Language](https://docs.djangoproject.com/en/3.1/ref/templates/language/).
+* continued the [web poll application](https://docs.djangoproject.com/en/3.1/intro/tutorial04/) (Part 4).
