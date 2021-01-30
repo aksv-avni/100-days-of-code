@@ -51,7 +51,17 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 **Today's Progress**:
 * read about [Templates in Django](https://docs.djangoproject.com/en/3.0/topics/templates/#django.template.loader.engines).
 
-### Day 11, January 28, 2021
+### Day 11,12 January 28,29 2021
 **Today's Progress**:
 * read about [Templates in Django](https://docs.djangoproject.com/en/3.0/topics/templates/#django.template.loader.engines) and [Django Template Language](https://docs.djangoproject.com/en/3.1/ref/templates/language/).
 * continued the [web poll application](https://docs.djangoproject.com/en/3.1/intro/tutorial04/) (Part 4).
+
+
+
+### Day 13, January 30 2021
+**Today's Progress**:
+* did nothing technical. :/
+* analysed my goals, schedule and and studies. :)
+* checked out and tracked stuff taught in classes.
+
+**Thoughts :** thought and found ways for increasing my productivity. 
