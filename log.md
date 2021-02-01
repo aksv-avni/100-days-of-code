@@ -58,10 +58,18 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 
 
 
-### Day 13, January 30 2021
+### Day 13, January 30, 2021
 **Today's Progress**:
 * did nothing technical. :/
 * analysed my goals, schedule and and studies. :)
 * checked out and tracked stuff taught in classes.
 
 **Thoughts :** thought and found ways for increasing my productivity. 
+
+### Day 14, January 31, 2021
+**Today's Progress**:
+* studied my college subjects (maths).
+* worked on some non-technical financial stuff.
+
+### Day 15, February 1, 2021
+**Today's Progress**:
