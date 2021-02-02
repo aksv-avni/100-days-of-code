@@ -73,3 +73,4 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 
 ### Day 15, February 1, 2021
 **Today's Progress**:
+* continued yesterday's work.
