@@ -74,3 +74,13 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 ### Day 15, February 1, 2021
 **Today's Progress**:
 * continued yesterday's work.
+
+### Day 16, February 2, 2021
+**Today's Progress**:
+* Completed the Official Django Polls web-app tutorial.
+
+**Thoughts**: Sadly, I didn't feel this tutorial to be beginner-friendly. But I tried my best to understand the concepts. This was just the bare minimum of Django framework. I would slowly build upon the basics.
+
+
+
+
