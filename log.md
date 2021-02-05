@@ -81,6 +81,14 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 
 **Thoughts**: Sadly, I didn't feel this tutorial to be beginner-friendly. But I tried my best to understand the concepts. This was just the bare minimum of Django framework. I would slowly build upon the basics.
 
+### Day 17, February 3, 2021
+**Today's Progress**:
+* studied about HTML, CSS, JS and looked upon my previous web dev courses.
+
+### Day 18, February 4, 2021
+**Today's Progress**:
+* Computer organization and Architecture 
+  * studied Cache Memory and Mapping techniques.
 
 
 
