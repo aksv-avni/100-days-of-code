@@ -85,10 +85,13 @@ Honestly, I didn't imagine that django would be that alienated to me. The way I 
 **Today's Progress**:
 * studied about HTML, CSS, JS and looked upon my previous web dev courses.
 
-### Day 18, February 4, 2021
+### Day 18, 19, 20, 21, 22, 23, 24, 25 February 4, 5, 6, 7, 8, 9, 10, 11 2021
 **Today's Progress**:
 * Computer organization and Architecture 
   * studied Cache Memory and Mapping techniques.
+  * studied about Memory Interfacing concepts
+  * studied about Secondary memory.
+  * missed some days and did nothing. :(
 
 
 
